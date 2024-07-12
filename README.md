@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dsouza777
 - 👀 I’m interested in cyber security ...
-- 🌱 I’m currently learning  how to build my resume website...
 
 <!---
 Dsouza777/Dsouza777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
